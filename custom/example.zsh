@@ -3,3 +3,4 @@
 #
 # brainstormr=/Users/robbyrussell/Projects/development/planetargon/brainstormr
 #
+SICIAP=/var/www/html/siciap
