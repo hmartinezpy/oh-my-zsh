@@ -5,3 +5,4 @@
 #
 SICIAP=/var/www/html/siciap
 SEGHOSP=/var/www/html/seghosp/seghosp
+SAA=/var/www/html/AA/saa
